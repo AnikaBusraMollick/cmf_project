@@ -1,0 +1,56 @@
+{
+    "data" : [
+        {
+            "slider": [
+                {
+                    "heading": "Category A Heading 1",
+                    "subHeading": "Product 1 Sub Heading 1...",
+                    "id": 1,
+                    "backgroundImage": "image1.png"
+                },
+                {
+                    "heading": "Category A Heading 2",
+                    "subHeading": "Product 1 Sub Heading 2...",
+                    "id": 2,
+                    "backgroundImage": "image2.png"
+                },
+                {
+                    "heading": "Category A Heading 3",
+                    "subHeading": "Product 1 Sub Heading 3...",
+                    "id": 3,
+                    "backgroundImage": "image3.png"
+                }
+                
+            ],
+            "category": "a",
+            "id": 1
+        },
+        {
+            "slider": [
+                {
+                    "heading": "Category B Heading 1",
+                    "subHeading": "Product 2 Sub Heading 1...",
+                    "id": 4,
+                    "backgroundImage": "image4.png"
+                },
+                {
+                    "heading": "Category B Heading 2",
+                    "subHeading": "Product 2 Sub Heading 2...",
+                    "id": 5,
+                    "backgroundImage": "image5.png"
+                },
+                {
+                    "heading": "Category B Heading 3",
+                    "subHeading": "Product 2 Sub Heading 3...",
+                    "id": 6,
+                    "backgroundImage": "image6.png"
+                }
+                
+            ],
+            "category": "b",
+            "id": 2
+        }
+    ]
+}
+
+
